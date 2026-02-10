@@ -19,6 +19,8 @@ A comprehensive collection of my Generative AI, AI Agents, and applied AI projec
 | **💰 Investment Planner**         | AI-driven financial advisor for personalized investment planning                                   | Streamlit, Docker, Vertex AI SDK, Gemini       | [Watch Demo](#)   | —                                         |
 | **🤖 Discord GenAI Bot**          | Discord bot answering GenAI-related questions                                                      | Python, Gemini, Discord API                    | [Watch Demo](#)   | —                                         |
 | **📊 Analytics with AI**          | Streamlit app for AI-powered CSV analytics                                                         | Streamlit, Pandas AI, Makersuite API           | [Live Demo](#)    | —                                         |
+
+
 | Project                      | Description                                       | Technologies                     | Resources       |
 | ---------------------------- | ------------------------------------------------- | -------------------------------- | --------------- |
 | **📝 Notes Converter**       | AI-powered tool for creating and converting notes | AI, YouTube                      | [Repository](#) |
@@ -28,6 +30,8 @@ A comprehensive collection of my Generative AI, AI Agents, and applied AI projec
 | **🧪 Auto Testing ADK MCP**  | Automated testing framework                       | Playwright, ADK, MCP             | [Repository](#) |
 | **⚙️ DevOps AI Agents**      | AI agents for DevOps automation                   | DevOps, Automation, AI           | [Repository](#) |
 | **⚙️ IT Support Agent**      | AI-based IT support automation agent              | DevOps, Automation, AI           | [Repository](#) |
+
+
 | Project                        | Description                             | Technologies                  | Resources       |
 | ------------------------------ | --------------------------------------- | ----------------------------- | --------------- |
 | **💕 Marriage Compatibility**  | AI-based compatibility analysis tool    | Python, AI                    | [Repository](#) |
@@ -38,6 +42,8 @@ A comprehensive collection of my Generative AI, AI Agents, and applied AI projec
 | **✈️ Bria Airways**            | Airline booking system simulation       | Travel Systems                | [Repository](#) |
 | **🔗 Telegram URL Scraper**    | Extract URLs from Telegram chats        | Web Scraping, Telegram API    | [Repository](#) |
 | **📱 StyleSnap**               | AI-powered fashion recommendation app   | Fashion Tech, AI              | [Repository](#) |
+
+
 | Resource                               | Description                        | Link            |
 | -------------------------------------- | ---------------------------------- | --------------- |
 | **100xDevs 0-to-100**                  | Full-stack web development notes   | [Repository](#) |
@@ -46,3 +52,25 @@ A comprehensive collection of my Generative AI, AI Agents, and applied AI projec
 | **Agent Development Kit Crash Course** | Google ADK learning materials      | [Repository](#) |
 | **Teaching Data Science**              | Educational data science resources | [Repository](#) |
 | **Master Dialogflow CX**               | Udemy Dialogflow CX course notes   | [Repository](#) |
+
+
+🛠️ Technology Stack
+AI & ML
+
+Google Gemini · Vertex AI · Azure OpenAI · LangChain · RAG · Dialogflow CX · CCAI · NLP · Speech-to-Text · Sentiment Analysis
+
+Frontend
+
+React · Next.js · TypeScript · JavaScript · Streamlit · HTML/CSS
+
+Backend
+
+Python · Node.js · Flask · FastAPI · REST APIs · Pandas
+
+Cloud & DevOps
+
+Docker · Kubernetes · Google Cloud Run · Vertex AI Agent Builder · Vercel · Netlify · GitHub
+
+AI Agent & Automation
+
+Google ADK · MCP · Conversational AI · Playwright · CI/CD Pipelines
